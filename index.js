@@ -29,7 +29,6 @@ const nullArray = [null, null, 5, 6];
 // console.log(reverseArray(nullArray));
 
 
-
 // ['A', 'B', 'C', 'D', 'E']
 // results -> ['E', 'D', 'C', 'B', 'A']
 
